@@ -34,6 +34,10 @@
 1. [Geralt. Mesh Rendering Result (PyTorch3D)](Results/Geralt.%20Mesh%20Rendering%20Result.mp4) - результат рендеринга проеобразованной модели в меш (PyTorch3D)
 2. [Geralt. Point Cloud Rendering Result (PyTorch3D)](Results/Geralt.%20Point%20Cloud%20Rendering%20Result.mp4) - результат рендеринга проеобразованной модели в сэмплированное облако точек (PyTorch3D)
 
+<video width="320" height="240" controls>
+  <source src="Results/Geralt.%20Mesh%20Rendering%20Result.mp4" type="video/mp4">
+</video>
+
 ## Лабораторная работа №2
 
 ## Лабораторная работа №3
